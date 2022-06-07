@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bf4da03.css",
+    "main.js": "/static/js/main.c8986e52.js",
+    "static/media/steam.svg": "/static/media/steam.d7b8819f879421dc2f25a3474964687d.svg",
+    "static/media/playstation.svg": "/static/media/playstation.18cc4b9ca49a92b00bb7958e88c5b9ad.svg",
+    "static/media/xbox.svg": "/static/media/xbox.3e7db73549794056f91af6a980fbc4a4.svg",
+    "static/media/nintendo.svg": "/static/media/nintendo.f579be0450cff9bf18cd4b3371f79436.svg",
+    "static/media/apple.svg": "/static/media/apple.5757c37e1a2b3d89e03deb9212a997e8.svg",
+    "index.html": "/index.html",
+    "main.8bf4da03.css.map": "/static/css/main.8bf4da03.css.map",
+    "main.c8986e52.js.map": "/static/js/main.c8986e52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bf4da03.css",
+    "static/js/main.c8986e52.js"
+  ]
+}
